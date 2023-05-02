@@ -1,6 +1,6 @@
 #!/usr/bin/python
-TELEGRAM_PATH = '/home/vtitov/.local/share/TelegramDesktop/tdata'
-TEST_FILE_PATH = '/home/vtitov/.local/share/TelegramDesktop/tdata/user_data/media_cache/0/98/B339834CCE06'
+TELEGRAM_PATH = '/home/user/.local/share/TelegramDesktop/tdata'
+TEST_FILE_PATH = '/home/user/.local/share/TelegramDesktop/tdata/user_data/media_cache/0/78/B338934DDE06'
 
 import os
 import logging
