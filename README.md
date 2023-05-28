@@ -1,4 +1,4 @@
-# tdecypt
+# tdecrypt
 Provides a draft class _TelegramProfile_ to decrypt local Telegram profile data.
 
 It allows to get a local key and decrypt _TDF$_ and _TDEF_ files from local Telegram profile folder.
